@@ -1,4 +1,4 @@
-# Couples App
+# Snuggle Space
 
 A fun and interactive app for couples to connect in real-time through WebSockets. Move your characters around, and when they collide — they kiss! ❤️
 
